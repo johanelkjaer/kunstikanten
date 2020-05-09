@@ -1,7 +1,6 @@
 ---
 works_index: true
-hero_text: "<strong>We're Acme</strong>, we work for brands. But most importantly,
-  we work for fun."
+hero_text: "<strong>Kunst i Kanten er på vej.<br>Vi ses i starten af 2021</strong>"
 title: Hero
 
 ---
