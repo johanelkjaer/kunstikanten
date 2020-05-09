@@ -1,9 +1,9 @@
 {
   "title": "Acme",
   "description": "Creative Agency",
-  "logo": "/upload/logo.svg",
+  "logo": "/upload/Billede1.png",
   "footer": "",
-  "favicon": "favicon-32x32.png",
+  "favicon": "/upload/Billede1.png",
   "navigation": [
     {
       "text": "Kommuner",
@@ -22,12 +22,6 @@
       "link": "mailto:kit@vatit.dk",
       "position": "right",
       "external": true
-    },
-    {
-      "text": "Journal",
-      "link": "/journal/",
-      "position": "right",
-      "external": false
     }
   ]
 }
