@@ -1,10 +1,16 @@
 {
-  "title": "Acme",
-  "description": "Creative Agency",
+  "title": "Kunst i Kanten",
+  "description": "Platform for kunst og kultur i Danamrks ydreområder",
   "logo": "/upload/Billede1.png",
-  "footer": "",
+  "footer": "All rights Kunst i Kanten",
   "favicon": "/upload/Billede1.png",
   "navigation": [
+    {
+      "text": "Om Kunst i Kanten",
+      "link": "",
+      "position": "",
+      "external": true
+    },
     {
       "text": "Kommuner",
       "link": "/",
