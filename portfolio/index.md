@@ -1,6 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>Kunst i Kanten er på vej.<br>Vi ses i starten af 2021<br></strong>"
+hero_text: <strong><img src="/upload/Billede1.png">Kunst i Kanten er på vej.<br>Vi
+  ses i starten af 2021<br></strong>
 title: Hero
 
 ---
